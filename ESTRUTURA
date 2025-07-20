@@ -1,0 +1,15 @@
+dicom-rx-tools/
+│
+├── docs/                 # Documentação técnica e exemplos
+├── examples/              # Notebooks demonstrativos (Jupyter)
+├── src/
+│   ├── dicom_reader.py    # Funções de leitura e parsing de DICOM
+│   ├── metadata_utils.py  # Funções de extração e manipulação de metadados
+│   ├── image_utils.py     # Funções de visualização e exportação de imagens
+│   ├── analysis_tools.py  # Análises quantitativas básicas
+│   └── ai_connector.py    # Placeholder para futuras integrações com IA
+├── tests/                 # Testes unitários
+├── requirements.txt       # Dependências do projeto
+├── README.md              # Apresentação do projeto
+├── LICENSE                # Licença (MIT recomendado)
+└── .gitignore             # Ignorar cache e arquivos desnecessários
