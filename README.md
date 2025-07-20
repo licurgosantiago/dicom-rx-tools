@@ -33,3 +33,17 @@ This project serves as a foundational component for intelligent ecosystems such 
 ---
 
 ## 📂 Project Structure
+dicom-rx-tools/
+├── docs/ # Documentation and usage guides
+├── examples/ # Jupyter Notebooks and practical cases
+├── src/ # Core source code
+│ ├── dicom_reader.py # Load and parse DICOM datasets
+│ ├── metadata_utils.py # Extract and structure metadata
+│ ├── image_utils.py # Visualization and export tools
+│ ├── analysis_tools.py # Quantitative analysis (volumetrics, HU)
+│ └── ai_connector.py # AI/ML future integrations
+├── tests/ # Unit tests
+├── output/ # Generated outputs (images, reports)
+├── requirements.txt # Dependencies list
+├── .gitignore # Versioning hygiene
+└── README.md # Project description
