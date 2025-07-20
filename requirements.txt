@@ -1,0 +1,9 @@
+pydicom
+numpy
+SimpleITK
+matplotlib
+opencv-python
+scikit-image
+tqdm
+jupyter
+pytest
